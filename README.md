@@ -1,4 +1,4 @@
-<img width="720" height="486" alt="image" src="https://github.com/user-attachments/assets/182ea848-d412-4367-9188-9b9876827094" /># владелец крутой гейм девелоп студии Furryversal Pictures
+# владелец крутой гейм девелоп студии Furryversal Pictures
 ## геймдевелопер + быдлокодер (не путать с вайбкодером (я такое осуждаю🥸))
 ### движок на котором типо умею:
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
